@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Einar Ólafsson</title>
+    <link href="http://einland.is/feed.xml" rel="self" />
+    <link href="http://einland.is" />
+    <updated>2019-08-25T23:39:38+02:00</updated>
+    <author>
+        <name>Einar Ólafsson</name>
+    </author>
+    <id>http://einland.is</id>
+
+    <entry>
+        <title>This is my first post</title>
+        <author>
+            <name>Einar Ólafsson</name>
+        </author>
+        <link href="http://einland.is/this-is-my-first-post/"/>
+        <id>http://einland.is/this-is-my-first-post/</id>
+
+        <updated>2019-08-25T23:35:12+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="http://einland.is/media/posts/1/image1.jpg" alt="" />
+                    This is a test of the CMS system.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="http://einland.is/media/posts/1/image1.jpg" alt="" />
+                This is a test of the CMS system.
+            ]]>
+        </content>
+    </entry>
+</feed>
